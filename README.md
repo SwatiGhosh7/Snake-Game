@@ -46,4 +46,4 @@ This is a classic Snake Game implemented in Java. The player controls a snake to
 ## Screenshots
 ![Screenshot 2024-07-19 152613](https://github.com/user-attachments/assets/5815e1ac-e140-4e62-bd59-83f4ba684673)
 ![Screenshot 2024-07-19 152450](https://github.com/user-attachments/assets/c22a9919-70a8-4b2b-978e-405ebda9e2ea)
-![Screenshot 2024-07-19 152519](https://github.com/user-attachments/assets/5315db2d-d416-49dd-b2f8-f0c76122846c)
+![Screenshot 2024-07-20 182216](https://github.com/user-attachments/assets/733ad1c9-4743-4c6f-8662-d00748c2fdd7)
